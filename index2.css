@@ -1,0 +1,17 @@
+.prove {
+    background-color: #564040;
+    border-radius: 3px;
+    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 20%);
+    cursor: pointer;
+    height: 432px;
+    margin-bottom: 16px;
+    max-width: 414px;
+    position: relative;
+}
+
+.img {
+    background-position: 50%;
+    background-size: cover;
+    position: relative;
+    
+}

@@ -1,0 +1,117 @@
+.centered {
+  color: azure;
+    position: absolute;
+    top: 60%;
+    right: 66.6%;
+    transform: translate(-50%, -50%);
+  }
+
+.centered_right {
+  color: azure;
+    position: absolute;
+    top: 60%;
+    left: 78%;
+    transform: translate(-50%, -50%);
+}
+
+.line_center {
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.line_top {
+  position: absolute;
+  top: 7%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.centered_fig3 {
+  color: azure;
+  position: absolute;
+  top: 95%;
+  right: 40.6%;
+  transform: translate(-50%, -50%);
+}
+
+.txt_fig4 {
+  color: azure;
+  position: absolute;
+  top: 120%;
+  right: 67%;
+  transform: translate(-50%, -50%);
+}
+
+.centered_fig4 {
+  color: azure;
+  position: absolute;
+  top: 95%;
+  left: 79.8%;
+  transform: translate(-50%, -50%);
+}
+
+.line_3 {
+  position: absolute;
+  top: 125%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.txt_fig5 {
+  color: azure;
+  position: absolute;
+  top: 120%;
+  left: 78%;
+  transform: translate(-50%, -50%);
+}
+
+.txt_home {
+  color: rgb(23, 27, 27);
+    position: absolute;
+    top: 4.5%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}
+
+.txt_list {
+  color: rgb(23, 27, 27);
+  position: absolute;
+  top: 4.5%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+}
+
+.txt_aktivitet {
+  color: rgb(23, 27, 27);
+  position: absolute;
+  top: 4.5%;
+  left: 81%;
+  transform: translate(-50%, -50%);
+}
+
+.green {
+  position: absolute;
+  height: 50px;
+  width: 500px;
+  top: 3.8%;
+  left: 82%;
+  transform: translate(-50%, -50%);
+}
+
+.txt_sign {
+  color: rgb(23, 27, 27);
+  position: absolute;
+  top: 4.5%;
+  left: 87%;
+  transform: translate(-50%, -50%);
+}
+
+.txt_tabela {
+  color: rgb(23, 27, 27);
+  position: absolute;
+  top: 4.5%;
+  left: 92%;
+  transform: translate(-50%, -50%);
+}
